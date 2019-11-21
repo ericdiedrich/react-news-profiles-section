@@ -20,3 +20,51 @@
 .App-link {
   color: #09d3ac;
 }
+
+.container1 {
+  display: flex;
+  text-align: center;
+  /* background-color: crimson; */
+  justify-content: space-around;
+}
+
+.container2 {
+  display: flex;
+  text-align: center;
+  /* background-color: crimson; */
+  justify-content: space-around;
+}
+
+.wrapper1 {
+  margin: 2%;
+}
+
+/* component wrapper stylings */
+
+.wrapper2 {
+  margin: 2%;
+}
+
+.titleinside {
+  display: flex;
+}
+
+.newdiv1 {
+  display: flex;
+}
+
+.newdiv2 {
+  display: flex;
+}
+
+hr {
+  flex-grow: 1;
+  height: 0px;
+  align-self: center;
+  color: black;
+  margin: 10px;
+}
+
+a {
+  align-self: center;
+}
