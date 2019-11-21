@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-news-profiles-section/static/css/main.65de0138.chunk.css",
+    "main.js": "/react-news-profiles-section/static/js/main.34fd456f.chunk.js",
+    "main.js.map": "/react-news-profiles-section/static/js/main.34fd456f.chunk.js.map",
+    "runtime-main.js": "/react-news-profiles-section/static/js/runtime-main.dd2a3710.js",
+    "runtime-main.js.map": "/react-news-profiles-section/static/js/runtime-main.dd2a3710.js.map",
+    "static/js/2.04e3977c.chunk.js": "/react-news-profiles-section/static/js/2.04e3977c.chunk.js",
+    "static/js/2.04e3977c.chunk.js.map": "/react-news-profiles-section/static/js/2.04e3977c.chunk.js.map",
+    "index.html": "/react-news-profiles-section/index.html",
+    "precache-manifest.7f2bea1a6de2058472ba2d92f855aa64.js": "/react-news-profiles-section/precache-manifest.7f2bea1a6de2058472ba2d92f855aa64.js",
+    "service-worker.js": "/react-news-profiles-section/service-worker.js",
+    "static/css/main.65de0138.chunk.css.map": "/react-news-profiles-section/static/css/main.65de0138.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd2a3710.js",
+    "static/js/2.04e3977c.chunk.js",
+    "static/css/main.65de0138.chunk.css",
+    "static/js/main.34fd456f.chunk.js"
+  ]
+}
